@@ -14,7 +14,7 @@ Ed Lazowska provides a great overview of the kinds of impact computer science ha
 
 Given that a computer will blindly execute any set of syntactically valid instructions it is given, it is extremely important that these instructions be correct. We have all experienced software failures (be them problems that cause a program to crash or require you to reboot your computer) and defects (where the program continues to execute but behaves incorrectly). While these failures and defects are frustrating, the pervasiveness and utility of software means that these problems can have much more serious (e.g., loss of life) or expensive (e.g., hundreds of millions of dollars) implications in some domains. 
 
-During his his 1972 Turing award lecture Dijkstra said,
+During his 1972 Turing award lecture Dijkstra said,
 
 > As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
 
